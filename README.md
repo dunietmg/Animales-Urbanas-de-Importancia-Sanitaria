@@ -33,6 +33,10 @@ Los datos utilizados en este proyecto fueron obtenidos del trabajo realizado por
 
 Puedes explorar las visualizaciones creadas en Looker Studio siguiendo [este enlace](https://lookerstudio.google.com/s/lXn4nzUkzAc).
 
+<p align="center">
+  <img src="Images/Captura visualizacion ejemplo.png" alt="alt text" width="800" style="display: block; margin: auto;"/>
+</p>
+
 ## Contacto
 
 Para más información o para enviar sugerencias, puedes contactarnos a través de [correo electrónico](mailto:animalesurbanosposadas@gmail.com).
