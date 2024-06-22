@@ -29,6 +29,10 @@ Los datos utilizados en este proyecto fueron obtenidos del trabajo realizado por
 - Analizar y entender las tendencias y patrones en los datos.
 - Proporcionar insights útiles que puedan ser utilizados por la Municipalidad de Posadas para mejorar la gestión del Dpto.
 
+## Enlace a Looker Studio
+
+Puedes explorar las visualizaciones creadas en Looker Studio siguiendo [este enlace](https://lookerstudio.google.com/s/lXn4nzUkzAc).
+
 ## Contacto
 
 Para más información o para enviar sugerencias, puedes contactarnos a través de [correo electrónico](mailto:animalesurbanosposadas@gmail.com).
