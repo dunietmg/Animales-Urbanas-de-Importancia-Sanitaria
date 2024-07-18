@@ -6,7 +6,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto tiene como objetivo aprender y practicar la visualización de datos utilizando Looker Studio. Se han utilizado datos históricos del Departamento de Animales Urbanos de la Municipalidad de Posadas, en Misiones, Argentina, correspondientes al periodo desde 2022 hasta 2024.
+Creación de Visualizaciones interactivas y atractivas en Looker Studio para facilitar el análisis y la comprensión de los datos.
 
 ## Estado del Proyecto
 
@@ -25,7 +25,7 @@ Los datos utilizados en este proyecto fueron obtenidos del trabajo realizado por
 
 ## Objetivos del Proyecto
 
-- Aprender a utilizar Looker Studio para crear visualizaciones interactivas y atractivas.
+- Utilizar Looker Studio para crear visualizaciones interactivas y atractivas.
 - Analizar y entender las tendencias y patrones en los datos.
 - Proporcionar insights útiles que puedan ser utilizados por la Municipalidad de Posadas para mejorar la gestión del Dpto.
 
