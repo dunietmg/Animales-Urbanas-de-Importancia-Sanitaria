@@ -10,7 +10,7 @@ Creación de Visualizaciones interactivas y atractivas en Looker Studio para fac
 
 ## Estado del Proyecto
 
-⚠️ **Este proyecto está en proceso de mejora.** ⚠️
+⚠️ **Este proyecto está en proceso de mejora continua.** ⚠️
 
 Actualmente, estamos trabajando en la incorporación de nuevas visualizaciones y la mejora de las existentes. Se agradece cualquier comentario o sugerencia para mejorar el proyecto.
 
